@@ -3,7 +3,7 @@ This project demonstrates a simple embedded system using an Arduino Uno, LM35 te
 
 ## Tinkercad Simulation
 1) Before physical implementation, the circuit and code were fully simulated using Tinkercad Circuits. This allowed testing:
-2) Correct analog reading from the LM35 sensor
+2) Correct digital reading from the DHT11 sensor
 3) LCD interfacing and data display
 4) Sensor-to-temperature conversion logic
 
