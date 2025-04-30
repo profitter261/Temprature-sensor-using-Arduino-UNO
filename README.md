@@ -19,11 +19,14 @@ This project demonstrates a simple embedded system using an Arduino Uno, LM35 te
 4) Breadboard & Jumper Wires
 5) Potentiometer (for LCD contrast)
 6) USB cable for Arduino programming
-   [https://www.tinkercad.com/things/2Lj3pCtyDyu-stunning-bruticus]
+
+## Tinkercad prototype simulation:
+[https://www.tinkercad.com/things/2Lj3pCtyDyu-stunning-bruticus]
+
 <p align="center">
   <img src="https://github.com/profitter261/Temprature-sensor-using-Arduino-UNO/blob/main/images/Screenshot%202025-04-30%20104606.png?raw=true" alt="Temprature sensor prototype using DHT11 sensor and Arduino UNO" width="400"/>
   <br>
-  <em>Figure 1: This is the caption</em>
+  <em>Figure 1: Temprature sensor prototype using DHT11 sensor and Arduino UNO</em>
 </p>
 
 ## Circuit Description:
@@ -35,7 +38,7 @@ This project demonstrates a simple embedded system using an Arduino Uno, LM35 te
 <p align="center">
   <img src="https://github.com/profitter261/Temprature-sensor-using-Arduino-UNO/blob/main/images/Screenshot%202025-04-30%20105220.png?raw=true" alt="temprature sensor using LM35 sensor and Arduino UNO" width="400"/>
   <br>
-  <em>Figure 1: This is the caption</em>
+  <em>Figure 1: temprature sensor using LM35 sensor and Arduino UNO</em>
 </p>
 
 ## Learning Outcomes:
